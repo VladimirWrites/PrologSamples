@@ -5,6 +5,8 @@ This repository contains solutions of some simple problems written in Prolog.
 Problems
 -------
 1. Calculate X to the power of N, for N>0. ([`pow.pl`](https://github.com/vlad1m1r990/PrologSamples/blob/master/pow.pl))
+2. Calculate N factorial, for N>0. ([`factorial.pl`](https://github.com/vlad1m1r990/PrologSamples/blob/master/factorial.pl))
+3. Calculate N-th Fibonacci number, for N>=0. ([`fibonacci.pl`](https://github.com/vlad1m1r990/PrologSamples/blob/master/fibonacci.pl))
 
 Contributing
 -------
